@@ -1,4 +1,4 @@
-# table walker
+# Table Walker
 
 A simple solution written as an introduction to Go to a table walker problem 
 
